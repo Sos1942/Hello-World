@@ -1,0 +1,175 @@
+def funcion_10veces():
+
+	print("Estoy Programando :D")
+	print("Estoy Programando :")
+	print("Estoy Programando ")
+	print("Estoy Programand")
+	print("Estoy Programan")
+
+	print("Estoy Programando :D")
+	print("Estoy Programando :")
+	print("Estoy Programando ")
+	print("Estoy Programand")
+	print("Estoy Programan")
+
+	print("Estoy Programando :D")
+	print("Estoy Programando :")
+	print("Estoy Programando ")
+	print("Estoy Programand")
+	print("Estoy Programan")
+
+	print("Estoy Programando :D")
+	print("Estoy Programando :")
+	print("Estoy Programando ")
+	print("Estoy Programand")
+	print("Estoy Programan")
+
+	print("Estoy Programando :D")
+	print("Estoy Programando :")
+	print("Estoy Programando ")
+	print("Estoy Programand")
+	print("Estoy Programan")
+
+	print("Estoy Programando :D")
+	print("Estoy Programando :")
+	print("Estoy Programando ")
+	print("Estoy Programand")
+	print("Estoy Programan")
+
+	print("Estoy Programando :D")
+	print("Estoy Programando :")
+	print("Estoy Programando ")
+	print("Estoy Programand")
+	print("Estoy Programan")
+
+	print("Estoy Programando :D")
+	print("Estoy Programando :")
+	print("Estoy Programando ")
+	print("Estoy Programand")
+	print("Estoy Programan")
+
+	print("Estoy Programando :D")
+	print("Estoy Programando :")
+	print("Estoy Programando ")
+	print("Estoy Programand")
+	print("Estoy Programan")
+
+	print("Estoy Programando :D")
+	print("Estoy Programando :")
+	print("Estoy Programando ")
+	print("Estoy Programand")
+	print("Estoy Programan")
+
+	print("Estoy Programando :D")
+	print("Estoy Programando :")
+	print("Estoy Programando ")
+	print("Estoy Programand")
+	print("Estoy Programan")
+
+	print("Estoy Programando :D")
+	print("Estoy Programando :")
+	print("Estoy Programando ")
+	print("Estoy Programand")
+	print("Estoy Programan")
+
+	print("Estoy Programando :D")
+	print("Estoy Programando :")
+	print("Estoy Programando ")
+	print("Estoy Programand")
+	print("Estoy Programan")
+
+	print("Estoy Programando :D")
+	print("Estoy Programando :")
+	print("Estoy Programando ")
+	print("Estoy Programand")
+	print("Estoy Programan")
+
+	print("Estoy Programando :D")
+	print("Estoy Programando :")
+	print("Estoy Programando ")
+	print("Estoy Programand")
+	print("Estoy Programan")
+
+	print("Estoy Programando :D")
+	print("Estoy Programando :")
+	print("Estoy Programando ")
+	print("Estoy Programand")
+	print("Estoy Programan")
+
+	print("Estoy Programando :D")
+	print("Estoy Programando :")
+	print("Estoy Programando ")
+	print("Estoy Programand")
+	print("Estoy Programan")
+
+	print("Estoy Programando :D")
+	print("Estoy Programando :")
+	print("Estoy Programando ")
+	print("Estoy Programand")
+	print("Estoy Programan")
+
+	print("Estoy Programando :D")
+	print("Estoy Programando :")
+	print("Estoy Programando ")
+	print("Estoy Programand")
+	print("Estoy Programan")
+
+	print("Estoy Programando :D")
+	print("Estoy Programando :")
+	print("Estoy Programando ")
+	print("Estoy Programand")
+	print("Estoy Programan")
+
+	print("Estoy Programando :D")
+	print("Estoy Programando :")
+	print("Estoy Programando ")
+	print("Estoy Programand")
+	print("Estoy Programan")
+
+	print("Estoy Programando :D")
+	print("Estoy Programando :")
+	print("Estoy Programando ")
+	print("Estoy Programand")
+	print("Estoy Programan")
+
+	print("Estoy Programando :D")
+	print("Estoy Programando :")
+	print("Estoy Programando ")
+	print("Estoy Programand")
+	print("Estoy Programan")
+
+	print("Estoy Programando :D")
+	print("Estoy Programando :")
+	print("Estoy Programando ")
+	print("Estoy Programand")
+	print("Estoy Programan")
+
+	print("Estoy Programando :D")
+	print("Estoy Programando :")
+	print("Estoy Programando ")
+	print("Estoy Programand")
+	print("Estoy Programan")
+
+	print("Estoy Programando :D")
+	print("Estoy Programando :")
+	print("Estoy Programando ")
+	print("Estoy Programand")
+	print("Estoy Programan")
+
+	print("Estoy Programando :D")
+	print("Estoy Programando :")
+	print("Estoy Programando ")
+	print("Estoy Programand")
+	print("Estoy Programan")
+
+	print("Estoy Programando :D")
+	print("Estoy Programando :")
+	print("Estoy Programando ")
+	print("Estoy Programand")
+	print("Estoy Programan")
+
+	
+
+funcion_10veces()
+
+#FIN
